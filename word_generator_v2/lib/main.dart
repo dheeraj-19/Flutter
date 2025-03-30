@@ -17,10 +17,10 @@ class MyApp extends StatelessWidget {
       create: (context) => MyAppState(),
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Word Generator',
+        title: 'Word Generator v2',
         theme: ThemeData(
           useMaterial3: true,
-          colorScheme: ColorScheme.fromSeed(seedColor: Colors.lightBlue),
+          colorScheme: ColorScheme.fromSeed(seedColor: Colors.blueAccent),
         ),
         home: MyHomePage(),
       ),
@@ -87,7 +87,7 @@ class _MyHomePageState extends State<MyHomePage> {
     // The container for the current page, with its background color
     // and subtle switching animation.
     var mainArea = ColoredBox(
-      color: colorScheme.surfaceContainerHighest,
+      color: colorScheme.primaryContainer,
       child: AnimatedSwitcher(
         duration: const Duration(milliseconds: 200),
         child: page,
@@ -105,6 +105,8 @@ class _MyHomePageState extends State<MyHomePage> {
                 Expanded(child: mainArea),
                 SafeArea(
                   child: BottomNavigationBar(
+                    backgroundColor:
+                        Theme.of(context).colorScheme.primaryContainer,
                     items: const [
                       BottomNavigationBarItem(
                         icon: Icon(Icons.home),
