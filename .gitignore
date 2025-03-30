@@ -1,0 +1,14 @@
+# Ignore build and cache files for all Flutter projects
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.idea/
+**/.packages
+**/ios/Pods/
+**/android/.gradle/
+**/android/app/build/
+**/windows/flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+**/linux/flutter/ephemeral/
+**/web/.dart_tool/
