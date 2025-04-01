@@ -28,7 +28,7 @@ Tap the checkbox next to a task to mark it as done; the task will not be deleted
 
 The project follows a standard Flutter directory structure:
 <pre>
-  weather/ 
+  todoapp/ 
   │── lib/           # Contains the main application code 
   │ ├── util/        # Stores the elements (box/button/tile)
   │ ├── pages/       # App pages
