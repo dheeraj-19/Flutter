@@ -44,7 +44,7 @@ Users can easily navigate between the various screens using the two navigation p
 
 The project follows a standard Flutter directory structure:
 <pre>
-  weather/ 
+  nike/ 
   │── lib/           # Contains the main application code 
   │ ├── components/  # Stores the elements (cart/shoe/nav)
   │ ├── images/      # Stores the product images
