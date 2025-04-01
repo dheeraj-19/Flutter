@@ -31,13 +31,13 @@ A dedicated favorites screen is available where users can view all their marked 
 A visually appealing bottom navigation bar to transition between the home screen and the favorites screen seamlessly
 
 ### Historical Work Pairs
-A scrollable list of all the generated word pairs which the users can go back and check, also they can like and unlike the word pairs from that list.
+A scrollable list of all the generated word pairs, which the users can go back and check, also they can like and unlike the word pairs from that list.
 
 ## Project Structure
 
 The project follows a standard Flutter directory structure:
 <pre>
-  word_generator/ 
+  word_generator_v2/ 
   │── lib/           # Contains the main application code 
   │ ├── main.dart    # The entry point of the application 
   │── test/          # Contains test files for the application 
