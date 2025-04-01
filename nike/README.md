@@ -16,7 +16,7 @@ A beautifully designed Flutter application that showcases Nike products, providi
 
 ## Demo
 
-https://github.com/user-attachments/assets/6391daab-4f37-4a59-84ab-2432c7c2f37a
+https://github.com/user-attachments/assets/701f7cad-6319-42e8-9581-8eae8225e654
 
 
 ## Usage
