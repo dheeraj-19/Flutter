@@ -1,16 +1,40 @@
-# todoapp
+# Todo App
 
-A new Flutter project.
+A Flutter application designed to help users manage their daily tasks efficiently. This app allows users to add and delete tasks and update tasks as completed, providing a seamless task management experience.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Add Tasks:** 
+- **Delete Tasks:** 
+- **Mark Tasks as Completed:**
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/e947eafa-07e6-4868-8487-8fab66a3352b
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+### Adding a Task
+Tap the '+' button and enter the task details.​
+
+### Deleting a Task
+Swipe a task to the left to remove it from the list.​
+
+### Marking a Task as Completed
+Tap the checkbox next to a task to mark it as done; the task will not be deleted, but there will be a strikethrough line on it.
+
+
+## Project Structure
+
+The project follows a standard Flutter directory structure:
+<pre>
+  weather/ 
+  │── lib/           # Contains the main application code 
+  │ ├── util/        # Stores the elements (box/button/tile)
+  │ ├── pages/       # App pages
+  │ ├── main.dart    # The entry point of the application 
+  │── test/          # Contains test files for the application 
+  │── pubspec.yaml   # Defines dependencies and project metadata 
+  │── README.md      # Project documentation
+</pre>
+
