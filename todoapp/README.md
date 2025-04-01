@@ -10,7 +10,8 @@ A Flutter application designed to help users manage their daily tasks efficientl
 
 ## Demo
 
-https://github.com/user-attachments/assets/e947eafa-07e6-4868-8487-8fab66a3352b
+https://github.com/user-attachments/assets/4fae2114-f0ea-4797-9e29-234b779f5dad
+
 
 ## Usage
 
