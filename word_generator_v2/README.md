@@ -13,7 +13,7 @@ An enhanced Flutter application that generates random word pairs and allows user
 
 ## Demo
 
-https://github.com/user-attachments/assets/bf8f9257-be77-4c6c-b05e-aae9dcd6f44a
+https://github.com/user-attachments/assets/0eb55903-31ef-40c5-94fe-f437c41466a9
 
 
 ## Usage
