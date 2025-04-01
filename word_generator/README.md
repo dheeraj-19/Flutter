@@ -10,7 +10,7 @@ A Flutter application that generates random word pairs and allows users to mark 
 
 ## Demo
 
-https://github.com/user-attachments/assets/8078833a-b378-418e-a468-bd617ea439b9
+https://github.com/user-attachments/assets/8059d268-353e-4f29-8835-e1f06a17f865
 
 
 ## Usage
