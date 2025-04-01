@@ -12,7 +12,7 @@ It also implements additional features such as light and dark mode support and i
 
 ## Demo
 
-https://github.com/user-attachments/assets/812f78dd-9d62-4a07-a7fe-d2ff4a45e693
+https://github.com/user-attachments/assets/aacebff6-ba6e-4d5b-b1fc-b82c2812be4b
 
 
 ## Usage
