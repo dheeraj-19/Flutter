@@ -4,9 +4,9 @@ A Flutter application designed to help users manage their daily tasks efficientl
 
 ## Features
 
-- **Add Tasks:** 
-- **Delete Tasks:** 
-- **Mark Tasks as Completed:**
+- **Add Tasks** 
+- **Delete Tasks** 
+- **Mark Tasks as Completed**
 
 ## Demo
 
